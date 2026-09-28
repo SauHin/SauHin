@@ -10,7 +10,7 @@ I build software from real problems. My family's steel shop ran on handwritten r
 
 I am a fifth-semester Computer Science student at BINUS. I am looking for an internship in data or machine learning.
 
-### Selected work
+### Featured work
 
 | Project | What it is | Result | Links |
 |---|---|---|---|
