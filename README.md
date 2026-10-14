@@ -21,7 +21,6 @@ I am a fifth-semester Computer Science student at BINUS. I am looking for an int
 
 ### Now
 
-- **[Semantic Resume Matcher](https://github.com/SauHin/semantic-resume-matcher)**: matches a CV to a job description by meaning, not keywords. Flags the requirements that the CV does not cover.
 - **[Feynman ASR](https://github.com/SauHin/feynman-asr)**: transcribes an explanation as you speak. Marks the places where you stalled.
 
 ### Toolkit
