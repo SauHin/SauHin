@@ -17,7 +17,7 @@ I am a fifth-semester Computer Science student at BINUS. I am looking for an int
 | **Crypto Asset NER** | Finds crypto asset names in Indonesian tweets with IndoBERTweet-CRF. First author, accepted at IEEE ICIMCIS 2026. | 85.41% F1 | [Code](https://github.com/SauHin/crypto-ner-indobertweet-crf) · [Paper](https://jonathandavin.my.id/papers/crypto-ner-icimcis-2026.pdf) |
 | **Tweet Emotion Classification** | Compares six models on Indonesian tweet emotion, from Naive Bayes to IndoBERTweet. | Macro F1 0.76 | [Code](https://github.com/SauHin/emotion-classification) · [Report](https://jonathandavin.my.id/papers/emotion-classification-report.pdf) |
 | **DevPath** | Matches your tech stack to one of six developer personas. Lists what to learn next. | 23,387 survey respondents | [Code](https://github.com/SauHin/DevPath) · [App](https://trydevpath.vercel.app/) |
-| **POS Toko Besi** | Point-of-sale system for my family's steel shop: sales, stock, and loyalty points. | 204 API tests | [Portfolio](https://jonathandavin.my.id/#projects) |
+| **POS Toko Besi** | Point-of-sale system for my family's steel shop: sales, stock, and loyalty points. | 204 API tests | [Code](https://github.com/SauHin/pos-sinarbaja) |
 
 ### Now
 
