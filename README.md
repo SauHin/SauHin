@@ -8,7 +8,7 @@
 
 I build software from real problems. My family's steel shop ran on handwritten receipts for twenty years. So I built the system that replaced them. I did not know which developer role fit my skills. So I built a model that answers it from developer survey data.
 
-I am a fifth-semester Computer Science student at BINUS. I am looking for an internship in data or machine learning.
+I am a fifth-semester Computer Science student at BINUS. I am looking for an internship in data, machine learning, or software engineering.
 
 ### Featured work
 
